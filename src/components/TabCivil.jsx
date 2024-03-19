@@ -24,12 +24,12 @@ function TabCivil() {
           <Card 
           url_imagen = "https://i.ytimg.com/vi/TDROXviGYEo/maxresdefault.jpg"
           titulo="PTC MathCAD"
-          descripcion={"Automatización de memorias de calculo con MathCAD"}/>
+          descripcion={"Automatización de memorias de cálculo con MathCAD"}/>
           
           <Card 
           url_imagen = "https://ingcivilocpvb.files.wordpress.com/2010/11/matlab.jpg"
           titulo="MATLAB"
-          descripcion={"Automatización de calculos con Matlab"}/>
+          descripcion={"Automatización de cálculos con Matlab"}/>
           
           <Card 
           url_imagen = "https://libreriacad.com/wp-content/uploads/wpdm-cache/hormigon%20(17)-0x0.png"
