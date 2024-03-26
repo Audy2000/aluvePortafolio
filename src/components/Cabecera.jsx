@@ -34,11 +34,11 @@ function Cabecera() {
                             <h2>Contactos</h2>
                             <p>
                                 <img src="https://cdn-icons-png.flaticon.com/128/3991/3991765.png" className="mx-3" width={'20px'} alt="email" />
-                                <a href="https://wa.me/593988316840" target="_blank">098 831 6840</a>
+                                <a href="https://wa.me/593963292107" target="_blank">096 329 2107</a>
                             </p>
                             <p>
                                 <img src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png" className="mx-3" width={'20px'} alt="email" />
-                                <a href="mailto:alucas2897@gmail.com">alucas2897@gmail.com</a>
+                                <a href="mailto:AudyLucasCV@gmail.com">AudyLucasCV@gmail.com</a>
                             </p>
                         </div>
                     </div>
@@ -70,11 +70,11 @@ function Cabecera() {
                             
                                 <p>
                                     <img src="https://cdn-icons-png.flaticon.com/128/3991/3991765.png" className="mx-3" width={'20px'} alt="email" />
-                                    <a href="https://wa.me/593988316840" target="_blank">098 831 6840</a>
+                                    <a href="https://wa.me/593963292107" target="_blank">096 329 2107</a>
                                 </p>
                                 <p>
                                     <img src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png" className="mx-3"  width={'20px'} alt="email" />
-                                    <a href="mailto:alucas2897@gmail.com">alucas2897@gmail.com</a>
+                                    <a href="mailto:AudyLucasCV@gmail.com">AudyLucasCV@gmail.com</a>
                                 </p>
 
                         </div>
