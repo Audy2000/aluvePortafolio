@@ -23,8 +23,9 @@ function Cabecera() {
                                     <li>Investigativo. </li>
                                     <li>Fácil acoplamiento a equipos de Trabajo</li>
                                     <li>Graduado y Estudiante de la Universidad Técnica de Manabí</li>
+                                    
                                 </ul>
-
+                                <h6 className="text-center"><em>"El esfuerzo de hoy es la semilla del éxito de mañana"</em></h6>
                             </div>
                         </div>
                     </div>
