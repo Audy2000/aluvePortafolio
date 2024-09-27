@@ -40,7 +40,7 @@ function Cabecera() {
 
                 <div className="row text-center">
                   
-                  <div className="col-sm-6">
+                  <div className="col-sm-6 my-1">
                     <a class="btn btn-success" 
                     target="_blank"
                     href="https://drive.google.com/drive/folders/1GYxU0TC15-nVYC2_e_bQycxvBB2XCq3V?usp=sharing" 
@@ -50,7 +50,7 @@ function Cabecera() {
                     </a>
                   </div>
 
-                  <div className="col-sm-6">
+                  <div className="col-sm-6 my-1">
                     <a class="btn btn-warning" target="_blank" href="https://drive.google.com/drive/folders/1GPZnfOLQf9dZWG5dDeGcLMojf6a-DNBg?usp=sharing" role="button">
                     <i class="fa-solid fa-helmet-safety mx-2"></i>
                         HV - Ing. Civil
