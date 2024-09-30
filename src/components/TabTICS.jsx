@@ -29,7 +29,7 @@ function TabTICS() {
                         descripcion={"Api Rest de Facturación con .NET CORE"} />
 
                     <Card
-                        url_imagen="src\assets\UsuarioRolesSpringBoot.png"
+                        url_imagen="https://lh3.googleusercontent.com/pw/AP1GczP7CMRsdn9RGxrIoc-M3hn8Ouk3I8sBd2Nfnrcm-XXZqFH_mUWOmmPN__AZhLC5OPbVjUcpPKzoCkFzVicNZpDD9TKQ2THByVKHVrFP4gz2dtgm8xSMHwmZX0-tAlJhnNcRU9G3-UcYdDgK7LY3yMFJ=w1006-h566-s-no-gm?authuser=0"
                         titulo="Desarrollo en JAVA- Spring Boot"
                         descripcion={"Sistema de Usuarios, roles y permisos en Spring Boot"} />
 
