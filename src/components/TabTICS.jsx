@@ -11,6 +11,18 @@ function TabTICS() {
 
                 <div className='row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3'>
 
+                <Card
+                        url_imagen="https://lh3.googleusercontent.com/pw/AP1GczPi00ddRErZf0e2eZN32JE6kS5VxFeyriTYsYFThZmRdYtyZi6dPEFWpYJ0zganTZBTcvZCsh6tJqDJDNSLlL6D0HlicmMo7slAqxx-CFc5Cq8MuwTo9aQRqrq-siUTECq6VgBbXWMed1a-I2PR_GSc=w1090-h651-s-no-gm"
+                        titulo="Desarrollo en ANGULAR"
+                        descripcion={"Sistema de Facturación e Inventario con Angular Frontend y PHP Backend"} />
+
+
+                <Card
+                        url_imagen="https://lh3.googleusercontent.com/pw/AP1GczOpc9F_ptbz14H6nykZvmDYuk1QiqkmDkbJQMFkaPzxSJgQhNFFkvUQpMWdCmhbmoBGXbDXLho3B4HInP0jxrtk4Fmf2MPmZh0jVajKbicVtiShheehPXSnX_aqeUsMODe7Sy91TZw3fBBOjP5XdISH=w1158-h651-s-no-gm"
+                        titulo="Desarrollo en PHP con Laravel y Filament"
+                        descripcion={"Proyecto de administración de Sistema con PHP y laravel Framework"} />
+
+                 
                     
                 <Card
                         url_imagen="https://lh3.googleusercontent.com/pw/AP1GczMa8sXrKukRQBjEtL54mjUnbi6xyJBpT_0uucMHjh9JgUVBV7l2jK64mlcHaXWbfbQiKV9b_ETVqY8kMzSjmtE_9aj_kOq4Us9Wh7MIQMqX93OPDmzNC30wo9Yrght9SSAoBVShPpvAEm4mQuJlFHg1=w1207-h651-s-no-gm"
