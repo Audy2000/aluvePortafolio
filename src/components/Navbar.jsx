@@ -1,5 +1,5 @@
 import React from 'react'
-import ejemploImg from '../assets/A.png';
+import ejemploImg from '../assets/LCAD.png';
 
 function Navbar() {
     return (
@@ -8,9 +8,8 @@ function Navbar() {
                 <div className="container">
                     <a href="" class="navbar-brand d-flex align-items-center">
                         
-                        <img src={ejemploImg} width={'25px'} className='mx-2' alt="" srcset="" />
+                        <img src={ejemploImg} width={'100px'} className='mx-2' alt="" srcset="" />
 
-                        <strong>ALUVE</strong>
                     </a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
