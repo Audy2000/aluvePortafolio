@@ -32,7 +32,7 @@ function TabCivil() {
           descripcion={"Automatización de cálculos con Matlab"}/>
           
           <Card 
-          url_imagen = "https://libreriacad.com/wp-content/uploads/wpdm-cache/hormigon%20(17)-0x0.png"
+          url_imagen = "https://static-wc.arcux.net/uploads/20200616114616/que-es-autocad.png"
           titulo="Autocad"
           descripcion={"Dibujo de Planos Estructurales en AutoCAD"}/>
         </div>
