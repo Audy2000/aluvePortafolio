@@ -27,7 +27,7 @@ function TabCivil() {
           descripcion={"Automatización de memorias de cálculo con MathCAD"}/>
           
           <Card 
-          url_imagen = "https://ingcivilocpvb.files.wordpress.com/2010/11/matlab.jpg"
+          url_imagen = "https://researchcomputing.princeton.edu/sites/g/files/toruqf7796/files/styles/freeform_750w/public/pages/matlab_r2015b.png?itok=VFKU9XeN"
           titulo="MATLAB"
           descripcion={"Automatización de cálculos con Matlab"}/>
           
